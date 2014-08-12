@@ -1,0 +1,12 @@
+# Site settings
+title: Petr thinks about software development
+email: petr@kadomtsev.com
+description: "This blog is attempt to start valuable contribution of my thoughts to worldwide development community. Hope you like it!"
+baseurl: ""
+url: "http://dev.kadomtsev.com"
+twitter_username: pechkarus
+github_username:  pechkarus
+
+# Build settings
+markdown: kramdown
+permalink: pretty
